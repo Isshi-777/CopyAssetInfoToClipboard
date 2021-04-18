@@ -1,9 +1,9 @@
 # CopyAssetInfoToClipboard
 
-�I�����ꂽ�A�Z�b�g�̏����R�s�[����
-�Ώۂ̏��͈ȉ�
-�@�E�A�Z�b�g�̐�΃p�X
-�@�E�A�Z�b�g�̃p�X
-�@�E�A�Z�b�g��GUID
+選択されたアセットの情報をコピーする  
+対象の情報は以下  
+　・アセットの絶対パス  
+　・アセットのパス  
+　・アセットのGUID  
 
-## �g�p��
+## 使用例
